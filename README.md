@@ -3,7 +3,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=madtethys&repo=madtethysdb&cache_seconds=86400&theme=react)
 
-**MAD Database**, Türkçe, hızlı, güvenilir ve kullanışlı bir açık kaynak kodlu JSON ve YAML veritabanı modülüdür. JavaScript ve TypeScript ile mükemmel uyum sağlar ve npm ile yarn üzerinde kolayca kullanılabilir. Geliştiricilere, en kullanışlı, mantıklı ve hızlı yerel veritabanlarını oluşturma konusunda sonuna kadar yardımcı olmayı amaçlar. Bu proje, herhangi bir kâr amacı gütmeksizin topluluğa katkıda bulunmayı hedefler.
+**madtethys Database**, Türkçe, hızlı, güvenilir ve kullanışlı bir açık kaynak kodlu JSON ve YAML veritabanı modülüdür. JavaScript ve TypeScript ile mükemmel uyum sağlar ve npm ile yarn üzerinde kolayca kullanılabilir. Geliştiricilere, en kullanışlı, mantıklı ve hızlı yerel veritabanlarını oluşturma konusunda sonuna kadar yardımcı olmayı amaçlar. Bu proje, herhangi bir kâr amacı gütmeksizin topluluğa katkıda bulunmayı hedefler.
 
 ![](https://img.shields.io/npm/l/madtethysdb?style=flat-square) ![](https://img.shields.io/npm/dt/madtethysdb?style=flat-square) ![](https://img.shields.io/bundlephobia/min/madtethysdb?style=flat-square) ![](https://img.shields.io/npm/v/madtethysdb?style=flat-square)<br/>
 ![](https://img.shields.io/github/stars/madtethys/madtethysdb?style=social) ![](https://img.shields.io/github/last-commit/madtethys/madtethysdb?style=flat-square)
@@ -35,7 +35,7 @@ npm i madtethysdb@latest
 yarn add madtethysdb
 ```
 
-`⚠️ Bu komut, npmjs üzerindeki en son sürümü kurar. Eğer henüz stabil olarak yayınlanmamış olan GitHub sürümünü indirmek isterseniz, aşağıdaki komutları terminalinize yazıp çalıştırmalısınız.`
+> ⚠️ Bu komut, npmjs üzerindeki en son sürümü kurar. Eğer henüz stabil olarak yayınlanmamış olan GitHub sürümünü indirmek isterseniz, aşağıdaki komutları terminalinize yazıp çalıştırmalısınız.
 
 ```bash
 npm i "https://github.com/madtethys/madtethysdb.git#master"
@@ -44,4 +44,13 @@ npm i "https://github.com/madtethys/madtethysdb.git#master"
 yarn add https://github.com/madtethys/madtethysdb.git#master
 ```
 
-Komut çalıştırıldıktan sonra paket bir süre indirilecektir. İndirilmesi tamamlandığında, MAD Database tamamen kullanıma hazır hale gelecektir! Hadi başlayın, verilerinizi kolayca yönetin!
+> Komut çalıştırıldıktan sonra paket bir süre indirilecektir. İndirilmesi tamamlandığında, **madtethys Database** tamamen kullanıma hazır hale gelecektir! Hadi başlayın, verilerinizi kolayca yönetin!
+
+## 📝 Katkıda Bulunma:
+> Projeye katkıda bulunmak isterseniz, fork'layabilir ve pull request gönderebilirsiniz. Her türlü katkı ve geri bildirim memnuniyetle karşılanır.
+
+## 📬 İletişim:
+> Bu proje hakkında sorularınız veya geri bildirimleriniz varsa, [e-posta](mailto:info@mdusova.com) yoluyla veya [LinkedIn](https://linkedin.com/in/mdusova) üzerinden benimle iletişime geçebilirsiniz.
+
+## 🛡️ Lisans
+> Bu proje [Apache License 2.0](LICENSE) ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
