@@ -3,7 +3,7 @@ name: Publish to npm
 on:
   push:
     branches:
-      - main 
+      - main
 
 jobs:
   publish:
@@ -23,9 +23,6 @@ jobs:
 
     - name: Install dependencies
       run: npm install
-
-    - name: Build your package (varsa)
-      run: npm run build 
 
     - name: Publish to npm
       run: npm publish
