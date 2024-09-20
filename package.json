@@ -1,0 +1,38 @@
+{
+  "name": "madtethysdb",
+  "version": "1.0.0-alpha",
+  "description": "madtethysdb; Türkçe, hızlı, güvenilir, kullanışlı, açık kaynak kodlu, event ve yedekleme destekli, json ve yaml database modülü.",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "keywords": [
+    "db",
+    "database",
+    "madtethys",
+    "madtethysdb",
+    "yaml",
+    "json",
+    "veri tabanı",
+    "quickdb",
+    "mongoose",
+    "mongodb",
+    "wiodb"
+  ],
+  "author": "madtethys",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madtethys/madtethysdb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/madtethys/madtethysdb/issues"
+  },
+  "homepage": "https://github.com/madtethys/madtethysdb#readme",
+  "dependencies": {
+    "events": "^3.3.0",
+    "yaml": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
