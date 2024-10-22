@@ -1,6 +1,6 @@
 {
   "name": "madtethysdb",
-  "version": "1.0.3-alpha",
+  "version": "1.0.4-alpha",
   "description": "madtethysdb; Türkçe, hızlı, güvenilir, kullanışlı, açık kaynak kodlu, event ve yedekleme destekli, json ve yaml database modülü.",
   "main": "./src/index.js",
   "types": "./src/index.d.ts",
